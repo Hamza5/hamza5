@@ -2,6 +2,8 @@
 ### Engineer in Computer Science and Artificial Intelligence - مهندس في علوم الحاسوب والذكاء الاصطناعي
 
 [![Interactive Curriculum Vitae](https://img.shields.io/website?url=https://hamza5.github.io/InteractiveCV/&label=Interactive%20Curriculum%20Vitae&style=for-the-badge)](https://hamza5.github.io/InteractiveCV/)
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&label=Upwork)](https://www.upwork.com/freelancers/~017dc88577730bcb57)
+
 
 [English](#English) [عربية](#عربية)
 
