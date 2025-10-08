@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hamza
 
-Founder of [Scraping Brain](https://scrapingbrain.com) — web scraping made ridiculously simple with natural language.  
-Specialist in Web Scraping, Web Apps Development, Automation, and AI Engineering.
+## Founder of [Scraping Brain](https://scrapingbrain.com) — web scraping made ridiculously simple with natural language.  
+### Specialist in Web Scraping, Web Apps Development, Automation, and AI Engineering.
 
 ---
 
